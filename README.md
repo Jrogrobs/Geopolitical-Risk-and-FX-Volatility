@@ -19,10 +19,6 @@ To evaluate the impact of geopolitical risk on FX volatility and excess returns,
 - Data: Daily spot/forward rates for 18 USD-based currencies (Reuters, WRM, Bloomberg) + Caldara–Iacoviello GPR index.
 - Portfolio Construction: High-minus-low currency baskets sorted by GPR sensitivity.
 - Analysis: Lagged regression models at portfolio & currency level; controlled for momentum and carry factors.
-  
-### Key Results
-- Evidence of significant GPR influence on volatility in both short-term and lagged models.
-- Model achieved improved forecasting accuracy over baseline volatility models.
 
 ## Tools & Technologies
 - Python (Pandas, NumPy, Statsmodels, Matplotlib, Seaborn)
